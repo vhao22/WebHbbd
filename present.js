@@ -15,7 +15,7 @@ var presentImage = document.getElementById("present-image");
 function init() {
   var graphElem = document.querySelector('.present-box > .side.top .to');
   graphElem.setAttribute('data-before', eventName);
-  document.querySelector('#card .title-card').innerHTML = ` 🤣${titleCard}🤣`;
+  document.querySelector('#card .title-card').innerHTML = `&#128514;${titleCard}&#128514;`;
   document.querySelector('#card .content-card').innerHTML = `${contentCard}`;
   document.querySelector('#card .honey').setAttribute('src', `${giftImage}`);
 

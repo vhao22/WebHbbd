@@ -1,8 +1,8 @@
 const nameGirl = 'Bạn Mẫu Giáo';
 const giftUrl = '';
-const eventName = 'Chúc Mừng Sinh Nhật Muộn';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc honey của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
+const eventName = 'Mừng Sinh Nhật Muộn';
+const titleCard = 'Bạn Mẫu Giáo';
+const contentCard = 'Chúc bạn mẫu giáo hết bị chê ốm &#128514;';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
@@ -11,4 +11,4 @@ const contentCard = 'Chúc honey của anh 20/10 tràn ngập niềm vui và nh�
 const giftImage = 'download.jpg';
 const base64 = 'hot-girl.png';
 const giftImageBase64 = "data:image/png;base64, " + base64;
-const imgAB='hot-girl.png';
+const imgAB='1.jpg';
